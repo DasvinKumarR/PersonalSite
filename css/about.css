@@ -77,45 +77,6 @@ body{
     color: #66BFBF;
     text-decoration: underline;
 }
-.course{
-    color: #1572A1;
-    text-decoration: underline;
-    font-style: normal;
-    width: 100%;
-}
-.year{
-    color: #1572A1;
-    text-decoration: underline;
-    font-style: normal;
-    width: 100%;
-}
-.institute{
-    color: #1572A1;
-    text-decoration: underline;
-    font-style: normal;
-    width: 100%;
-}
-.university{
-    color: #1572A1;
-    text-decoration: underline;
-    font-style: normal;
-    width: 100%;
-}
-.percentage{
-    color: #1572A1;
-    text-decoration: underline;
-    font-style: normal;
-    width: 100%;
-}
-.edu-table{
-    text-align: left;
-    margin: auto;
-    width: 90%;
-    padding-bottom: 20px;
-    font-size: 85%;
-}
-.para{
-    width: 100%;
-}
+
 
 
