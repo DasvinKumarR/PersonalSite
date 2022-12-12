@@ -6,9 +6,9 @@ body{
     background-color: #FFF6EA;
 }
 .book{
-    height: 9.375rem;
-    width: 9.375rem;
-    margin-top: 1.25rem;
+    height: 10%;
+    width: 10%;
+    margin-top: 20px;
 }
 .knowledge-text{
     color: #66BFBF;
@@ -17,7 +17,7 @@ body{
     text-align: left;
 }
 .Knowledge-content{
-    width: 50rem;
+    width: 60%;
     margin: 0 auto;
     line-height: 2;
     word-spacing: normal;

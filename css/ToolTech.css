@@ -9,12 +9,12 @@ body{
     color: #66BFBF;
 }
 .used{
-    font-size: 0.8rem;
+    font-size: 60%;
 }
 .repair-gif{
-    height: 9.375rem;
-    width: 9.375rem;
-    margin-top: 1.25rem;
+    height: 10%;
+    width: 10%;
+    margin-top: 10px;
 }
 .tool-content-table{
     text-align: left;
