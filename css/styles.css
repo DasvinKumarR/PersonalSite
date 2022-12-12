@@ -29,14 +29,18 @@ body{
     padding-top: 2%;
 }
 .top-cloud{
-    left: 20%;
-    position: relative;
-    top: 4%;
+    width: 11%;
+    height: 7%;
+    right: 22%;
+    position: absolute;
+    top: 8%;
 }
 .bottom-cloud{
     position: absolute;
-    top: 52%;
-    left: 32%;
+    top: 44%;
+    left: 19%;
+    height: 6%;
+    width: 11%;
 }
 h2{
     font-family: 'Montserrat', sans-serif;
