@@ -61,7 +61,7 @@ body{
 }
 .personal-achievement{
     text-align: left;
-    width: 46.875rem;
+    width: 55%;
     line-height: 2;
     margin: 0 auto;
 }
@@ -72,10 +72,6 @@ body{
 .edu-animation{
     height: 6.25rem;
     width: 6.25rem;
-}
-.edu-table{
-    text-align: left;
-    margin: 0 auto;
 }
 .edu-details{
     color: #66BFBF;
@@ -106,4 +102,12 @@ body{
     text-decoration: underline;
     font-style: normal;
 }
+.edu-table{
+    text-align: left;
+    margin: auto;
+    width: 80%;
+    font-size: 95%;
+    padding-bottom: 20px;
+}
+
 

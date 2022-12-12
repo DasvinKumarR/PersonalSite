@@ -5,10 +5,14 @@ body{
     font-family: 'Merriweather', serif;
 }
 .Top-Container{
+    padding-bottom: 50px;
     background-color: #FEFCF3;
     position: relative;
-    padding: 100px;
+    padding-top: 100px;
     font-family: 'Montserrat', sans-serif;
+}
+.mountain-image{
+    width: 50%;
 }
 .Mid-Container{
     background-color: #FFF6EA;
@@ -20,18 +24,18 @@ body{
 .Name{
     margin: 0;
     font-family: 'Sacramento', cursive;
-    font-size: 3.75rem;
+    font-size: 350%;
     color: #66BFBF;
+    padding-top: 2%;
 }
 .top-cloud{
     position: absolute;
-    right: 28.125rem;
-    top: 2.6rem;
+    right: 24%;
+    top: 5%;
 }
 .bottom-cloud{
     position: absolute;
-    top:16.625rem;
-    left:30rem;
+    top: 40%;
 }
 h2{
     font-family: 'Montserrat', sans-serif;
@@ -88,7 +92,7 @@ h3{
     color: #11999E;
 }
 .designation{
-    font-size: 2.0rem;
+    font-size: 180%;
     color: #66BFBF;
 }
 .synopsis-content{
