@@ -59,9 +59,26 @@ h3{
     width: 10%;
 }
 .automation-logo{
-    height: 10%;
-    width: 10%;
+    height: 30%;
+    width: 40%;
 }
+
+.skills-point{
+    text-align: left;
+}
+
+.skills-div{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.skill-list-head {
+    height: 35%;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .coding-logo{
     height: 10%;
     width: 10%;
